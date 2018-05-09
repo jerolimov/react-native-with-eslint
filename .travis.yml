@@ -15,7 +15,8 @@ matrix:
       node_js:
         - stable
       script:
-        - yarn run lint
+        - yarn lint
+        - yarn prettier-check
 
     - language: android
       jdk: oraclejdk8

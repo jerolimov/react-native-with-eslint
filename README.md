@@ -17,3 +17,11 @@ with enabled [ESLint](https://eslint.org/) configuration.
 *   Run the linter:
     *   With npm `npm run lint`
     *   or with yarn: `yarn run lint`
+
+## Prettier
+
+*   Add dependency
+    *   With npm: `npm install --save-dev prettier`
+    *   Alternative with yarn: `yarn add --dev prettier`
+*   Add a prettier configuration
+    * For example a [.prettierrc.js](.prettierrc.js)
