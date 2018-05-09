@@ -1,4 +1,4 @@
-# react-native-with-eslint example
+# react-native example project with ESLint configuration
 
 [![Build Status](https://travis-ci.org/jerolimov/react-native-with-eslint.svg?branch=master)](https://travis-ci.org/jerolimov/react-native-with-eslint)
 
