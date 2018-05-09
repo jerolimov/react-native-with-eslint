@@ -6,9 +6,9 @@
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest",
     "lint": "eslint *.js src",
-    "prettier": "prettier *.{js,ts,tsx}",
-    "prettier-check": "prettier *.{js,ts,tsx} --list-different",
-    "prettier-write": "prettier *.{js,ts,tsx} --write"
+    "prettier": "prettier *.js .*.js",
+    "prettier-check": "prettier *.js .*.js --list-different",
+    "prettier-write": "prettier *.js .*.js --write"
   },
   "dependencies": {
     "react": "16.3.1",
